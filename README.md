@@ -1,6 +1,6 @@
 # SoC-2ndRC-simulink-offlineTable
 ## 用于验证参数辨识准确性
-B站
+参考
 
 https://www.bilibili.com/video/BV1Bg411t7kS/?spm_id_from=333.337.search-card.all.click&vd_source=54863b152f6f1fc0c3eb381c6acd838f
 
