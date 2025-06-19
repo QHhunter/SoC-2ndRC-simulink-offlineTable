@@ -4,7 +4,7 @@
 
 https://www.bilibili.com/video/BV1Bg411t7kS/?spm_id_from=333.337.search-card.all.click&vd_source=54863b152f6f1fc0c3eb381c6acd838f
 
-
+## 与BMS佬大的相同，不过没放推导过程
 
 参考博客
 
